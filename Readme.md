@@ -54,7 +54,11 @@ Welcome to **Twitter Clone**, a sleek and modern reimagining of Twitter's core f
 ![alt text](image-6.png)
 
 ## 🎥 Video
-[Twitter Clone Video](<c:/Users/HP/Videos/Twitter Clone.mkv>)
+
+
+https://github.com/user-attachments/assets/c492425d-14c5-4ad3-8695-07245a3b1346
+
+
 
 ## 👏 Acknowledgments
 This project was inspired by Twitter's UI and built to hone skills in Tailwind CSS
